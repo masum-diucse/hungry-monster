@@ -1,0 +1,14 @@
+#display-search-result{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap:30px;
+}
+.mealDeatils{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
+.mealDeatils img{
+    height: 400PX;
+}
